@@ -1,0 +1,5 @@
+mkdir <floder> - make directory
+ls - list. Display the content in the directory
+cd <folder name>  - change directory. Move to another directory
+code <file name> - creates a file and opens it in text editor.
+pwd - print working directory
