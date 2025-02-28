@@ -15,7 +15,7 @@ int main() {
 
     // Get the input
     // & - address operator
-    // No comments, messages, or escape sequences in scanf
+    // No comments, messages, or escape sequences in scanf only conversion specifiers
     // Always add a & before every variable 
 
     scanf("%d", &square_side);

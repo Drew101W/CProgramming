@@ -10,7 +10,7 @@ int main() {
 
     scanf("%d", &age);
     int age_in_minutes = age * 525960;
-    printf("%d years is %d minutes\n", age, age_in_minutes);
+    printf("\"%d\" years is \"%d\" minutes\n", age, age_in_minutes);
 
     return 0;
 
